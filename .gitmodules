@@ -1,0 +1,6 @@
+[submodule "raw_generate"]
+	path = raw_generate
+	url = git@github.com:RoundShee/fuzzing_test.git
+[submodule "exec"]
+	path = exec
+	url = git@gitee.com:songmengjian/fuzzing.git
